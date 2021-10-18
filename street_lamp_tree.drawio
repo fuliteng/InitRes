@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T09:12:36.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="9-lEwRASd_O4CRDUiF0P" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T09:15:27.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="juFRTihOzgXwDde_Tmk-" version="15.5.4" type="github">
   <diagram id="0NARUyMhth6DVro84zLS" name="Page-1">
     <mxGraphModel dx="1422" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="280" y="136" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0XLo5o7JqgH2-rpiOE0s-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_directions_car_48px-128.png;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="448" y="480" width="128" height="128" as="geometry" />
+          <mxGeometry x="448" y="585" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="0XLo5o7JqgH2-rpiOE0s-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="130" height="290" as="geometry" />
@@ -41,12 +41,12 @@
           <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0XLo5o7JqgH2-rpiOE0s-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_directions_car_48px-128.png;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="828" y="260" width="128" height="128" as="geometry" />
+          <mxGeometry x="900" y="266" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="0XLo5o7JqgH2-rpiOE0s-19" value="通过WIFI 接收路灯&lt;br&gt;发送的信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="760" y="180" width="238" height="94" as="geometry" />
+          <mxGeometry x="830" y="196" width="238" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="0XLo5o7JqgH2-rpiOE0s-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0XLo5o7JqgH2-rpiOE0s-2">
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0XLo5o7JqgH2-rpiOE0s-2" target="0XLo5o7JqgH2-rpiOE0s-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="508" y="370" as="sourcePoint" />
             <mxPoint x="508" y="480" as="targetPoint" />
@@ -69,8 +69,26 @@
             <mxPoint x="296.2096774193549" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0XLo5o7JqgH2-rpiOE0s-31" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-32" value="通过WIFI 接收路灯&lt;br&gt;发送的信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="170" y="42" width="238" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-33" value="通过WIFI 接收路灯&lt;br&gt;发送的信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="238" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-34" value="路灯" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1048" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-35" value="摄像头" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0XLo5o7JqgH2-rpiOE0s-6" target="0XLo5o7JqgH2-rpiOE0s-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777" y="370" as="sourcePoint" />
+            <mxPoint x="827" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_directions_car_48px-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="860" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_directions_car_48px-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1024" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
