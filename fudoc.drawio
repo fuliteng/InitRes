@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:50:28.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="tJpddVcCA8dldpTw0oC7" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T07:47:53.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="JRpQ5MUYpbpjHYaTGbzH" version="15.5.4" type="github">
   <diagram id="2jQOsYJmNNE00CzkZMO8" name="Page-1">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PuEa_OVbAe6Mb75oJU7H-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;路灯&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="340" y="250" width="120" height="120" as="geometry" />
+        <mxCell id="PuEa_OVbAe6Mb75oJU7H-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;路灯&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="420" y="250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B2WD6lWIS3AJ2mOz9PQR-1" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2WD6lWIS3AJ2mOz9PQR-2" value="WIFI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
