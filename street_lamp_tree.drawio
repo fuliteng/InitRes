@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T09:15:35.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="kgsxGOJEH0DgHN0DDmX8" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T09:18:16.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Safari/537.36" etag="n5-nvzZ-Z2r9LHK6tUI7" version="15.5.4" type="github">
   <diagram id="0NARUyMhth6DVro84zLS" name="Page-1">
     <mxGraphModel dx="1422" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,25 @@
           <mxGeometry x="390" y="860" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="0XLo5o7JqgH2-rpiOE0s-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_directions_car_48px-128.png;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1024" width="128" height="128" as="geometry" />
+          <mxGeometry x="760" y="1030" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0XLo5o7JqgH2-rpiOE0s-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1030" as="sourcePoint" />
+            <mxPoint x="454" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1" source="0XLo5o7JqgH2-rpiOE0s-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="552" y="980" as="sourcePoint" />
+            <mxPoint x="492" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-42" value="右侧方有车辆，&lt;br&gt;注意行驶" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="710" y="970" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0XLo5o7JqgH2-rpiOE0s-43" value="左侧方有车辆，&lt;br&gt;注意行驶" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
